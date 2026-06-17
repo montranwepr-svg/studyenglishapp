@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Nói & Viết Tiếng Anh AI",
+  "description": "Học từ vựng theo lộ trình cá nhân hóa, luyện phát âm, sửa lỗi ngữ pháp, làm trắc nghiệm và giao tiếp trực tiếp với nhân vật AI bằng giọng nói.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
